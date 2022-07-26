@@ -1,0 +1,5 @@
+1	ISL	DXB	Day	IP232
+2	LHR	GLA	Day	IP233
+3	KHI	JED	Day	IP234
+4	isl	jeddah	night	B321
+5	isl	turkey	day	B547
